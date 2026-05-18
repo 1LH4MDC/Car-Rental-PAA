@@ -1,16 +1,12 @@
-# modul6
+# modul6 Car Rental Mobile
 
-A new Flutter project.
+## 👤 Identitas
+- **Nama:** Ilham Dwi Cahya
+- **NIM:** 242410102081
+- **Kelas:** PAA B
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📖 Deskripsi Project
+Car Rental Mobile App adalah aplikasi penyewaan mobil berbasis Flutter yang 
+terintegrasi secara real-time dengan RESTful API. Aplikasi ini menyediakan fitur 
+manajemen pemesanan (booking) dan pelaporan pembayaran bagi role USER, serta 
+panel kontrol konfirmasi booking dan verifikasi pembayaran bagi role ADMIN.
